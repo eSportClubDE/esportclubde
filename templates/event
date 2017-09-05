@@ -1,0 +1,119 @@
+	<div class="sp-section-content sp-section-content-details">
+		<div class="sp-template sp-template-event-details">
+			<p style="text-align: justify;">
+				[fruitful_alert type="alert-warning"]
+					<strong>Achtung: Es sind zusätzliche Spielgegenstände gebannt.</strong>
+					Es findet weiterhin <strong>kein</strong> Ban &amp; Protect statt. Bitte überprüft dazu kurz das aktuelle <a href="https://escde.eu/regeln/black-ops-3/">Black Ops 3 Regelwerk</a>, um unnötige Disputes zu vermeiden.
+				[/fruitful_alert]
+			</p>
+			<h4 class="sp-table-caption">Details</h4>
+			<div class="sp-table-wrapper">
+				<table class="sp-event-details sp-data-table sp-scrollable-table">
+					<tbody>
+						<tr class="odd">
+							<td><b>Datum</b></td>
+							<td>19.08.2017, 19 Uhr - Anmeldung: 15.00 bis 18.55 Uhr</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Turnierstruktur</b></td>
+							<td>Max. 64 Teams, Best of 3, Single Elimination</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Preis</b></td>
+							<td>Kein Preis</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Regeln</b></td>
+							<td>
+								<a href="https://escde.eu/regeln/black-ops-3/">Black Ops 3 Regelwerk</a>
+							</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Stream</b></td>
+							<td>Ab dem Halbfinale werden eure Streams retweetet. Taggt dazu bitte
+							den Haupt-Twitter Account @eSportClubDE.</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Ergebnisse</b></td>
+							<td>
+								Per Direktnachricht mit Proof über den unten stehenden Button an
+								unseren <a href="https://to.escde.eu/report" rel="noopener" target=
+								"_blank">Support-Account auf Twitter</a> senden.
+							</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Turniersupport</b></td>
+							<td>
+								Bei Problemen, Roster Changes, etc. kontaktiert bitte unseren <a href=
+								"https://twitter.com/esportclubdesup" rel="noopener" target=
+								"_blank">Support-Account auf Twitter</a>.
+							</td>
+						</tr>
+						<tr class="odd">
+							<td><b>Noch Fragen?</b></td>
+							<td>
+								Lies dir am besten unser <a href=
+								"https://escde.eu/help/haeufig-gestellte-fragen/">FAQ</a> durch!
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<style>@media screen and (max-width: 800px) {.custom-button{margin-bottom:20px;}} @media screen and (min-width: 801px) {.custom-button{margin-right:20px;}}</style>
+		<center>
+			<a href="https://to.escde.eu/report" rel="noopener" target="_blank"><button class="custom-button" type="button">Match-Report einreichen</button></a><a href="https://to.escde.eu/dispute" rel="noopener" target="_blank"><button type="button">Match-Dispute einreichen</button></a>
+		</center>
+		<div class="sp-section-content sp-section-content-details">
+			<div class="sp-template sp-template-event-details">
+				<h4 class="sp-table-caption">Mapset</h4>
+				<div class="sp-table-wrapper">
+					<table class="sp-event-details sp-data-table sp-scrollable-table">
+						<tbody>
+							<tr>
+								<th></th>
+								<th>Round 1 - T64 (FF* 19.15 Uhr)</th>
+								<th>Round 2 - T32 (FF* 20.15&nbsp;Uhr)</th>
+								<th>Round 3 - T16 (FF* 21.15&nbsp;Uhr)</th>
+								<th>Round 4 - T8 (FF* 22.15 Uhr)</th>
+								<th>Finale (FF* 23.15 Uhr)</th>
+							</tr>
+							<tr>
+								<td><b>Only SnD</b></td>
+								<td>Stronghold Evac Infection</td>
+								<td>Fringe Breach Redwood</td>
+								<td>Evac Redwood Stronghold</td>
+								<td>Infection Fringe Breach</td>
+								<td>Redwood Stronghold Evac</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="sp-table-wrapper">
+				<table class="sp-event-details sp-data-table sp-scrollable-table">
+					<tbody>
+						<tr class="odd">
+							<td style="text-align: justify;">* FF: Dies ist die festgesetzte Forfeit Zeit. Um einen reibungslosen Ablauf ohne große Verzögerungen für gestreamte Events zu gewährleisten, gibt es für jede Runde einen Richtzeit, zu dem <strong>spätestens</strong> das Match gestartet werden sollte. Sollte das Match zu diesem Zeitpunkt nicht gestartet worden sein, verliert das unvollständige Team die erste Map der Runde. Es ist erwünscht, die Matches bereits vor diesem Zeitpunkt zu starten, falls beide Teams bereit sind. Weitere Informationen finden sich im oben verlinkten Regelwerk.</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<h4 class="sp-table-caption">Bracket</h4>
+		<div class="sp-table-wrapper">
+			<table class="sp-event-details sp-data-table sp-scrollable-table">
+				<tbody>
+					<tr class="odd">
+						<td><iframe frameborder="0" height="500" scrolling="auto" src="BRACKETLINK" width="100%"></iframe></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<p style="text-align: justify;">
+			[fruitful_alert type="alert-warning"]
+				In der folgenden Tabelle seht ihr alle bei uns eingegangen Anmeldungen. Sollten sich mehr als die maximale Anzahl an Teams angemeldet haben, so tauchen diese trotzdem in der Tabelle (nicht jedoch in der Bracket) auf. Diese Anmeldungen befinden sich auf der "Warteliste" und rücken in die Bracket nach, falls Teams abspringen.
+			[/fruitful_alert]</p>
+			[gdoc key="https://docs.google.com/spreadsheets/d/1gdRPMZOXQ-nXFuJ9G-3nLtlOwvmSjLS_YS2-x8Wg3WE/edit?usp=sharing" use_cache="no"]
+			<b>Hinweis:</b> Teams, die sich vor dem Anmeldezeitraum angemeldet haben, nehmen nicht am Turnier teil und werden ausgeschlossen.
+	</div>
